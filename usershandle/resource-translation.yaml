@@ -1,8 +1,0 @@
-locale:
-    en:
-        compose:namespace/sample:
-            name: sample
-        compose:module/sample/usershandle:
-            name: users
-        compose:module-field/sample/usershandle/name:
-            label: name
