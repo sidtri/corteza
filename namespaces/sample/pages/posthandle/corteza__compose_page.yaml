@@ -1,0 +1,9 @@
+namespace: sample
+pages:
+    - pageID: 331569481312675829
+      handle: posthandle
+      title: postpage
+      visible: true
+      weight: 2
+      createdAt: "2023-04-07T14:56:52+05:30"
+      updatedAt: "2023-04-07T14:56:57+05:30"

@@ -1,0 +1,6 @@
+locale:
+    en:
+        compose:namespace/sample:
+            name: sample
+        compose:page/sample/posthandle:
+            title: postpage
