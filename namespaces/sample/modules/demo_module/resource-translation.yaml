@@ -12,5 +12,3 @@ locale:
             label: sd
         compose:module-field/sample/demo_module/Sample:
             label: Sample
-        compose:module-field/sample/demo_module/colapr7:
-            label: colapr7
