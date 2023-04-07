@@ -4,6 +4,17 @@ modules:
         moduleID: 326896432525132533
         name: Demo Module
         fields:
+            colapr7:
+                kind: String
+                label: colapr7
+                config:
+                    dal:
+                        encodingstrategy: null
+                    privacy:
+                        sensitivitylevelid: 0
+                        usagedisclosure: ""
+                    recordrevisions:
+                        skip: false
             Sample:
                 kind: String
                 label: Sample
@@ -49,3 +60,4 @@ modules:
                     recordrevisions:
                         skip: false
         createdAt: "2023-04-03T13:20:28+05:30"
+        updatedAt: "2023-04-07T13:25:07+05:30"
