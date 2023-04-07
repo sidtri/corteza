@@ -1,0 +1,6 @@
+locale:
+    en:
+        compose:namespace/sample:
+            name: sample
+        compose:module/sample/sam:
+            name: sam
