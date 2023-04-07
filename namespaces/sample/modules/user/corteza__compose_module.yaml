@@ -1,0 +1,34 @@
+namespace: sample
+modules:
+    usershandle:
+        moduleID: 330980806468083957
+        name: users
+        fields:
+            name:
+                kind: String
+                label: name
+                config:
+                    dal:
+                        encodingstrategy: null
+                    privacy:
+                        sensitivitylevelid: 0
+                        usagedisclosure: ""
+                    recordrevisions:
+                        skip: false
+        createdAt: "2023-04-03T13:28:54+05:30"
+        updatedAt: "2023-04-03T13:32:41+05:30"
+    user:
+        moduleID: 331569161169840117
+        name: user
+        fields:
+            name:
+                kind: String
+                config:
+                    dal:
+                        encodingstrategy: null
+                    privacy:
+                        sensitivitylevelid: 0
+                        usagedisclosure: ""
+                    recordrevisions:
+                        skip: false
+        createdAt: "2023-04-07T14:53:41+05:30"
