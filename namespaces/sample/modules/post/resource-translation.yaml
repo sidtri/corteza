@@ -6,3 +6,5 @@ locale:
             name: post
         compose:module-field/sample/post/title:
             label: title
+        compose:module-field/sample/post/content:
+            label: content
