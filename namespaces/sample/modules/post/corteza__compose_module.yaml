@@ -1,0 +1,18 @@
+namespace: sample
+modules:
+    post:
+        moduleID: 331569076394567669
+        name: post
+        fields:
+            title:
+                kind: String
+                label: title
+                config:
+                    dal:
+                        encodingstrategy: null
+                    privacy:
+                        sensitivitylevelid: 0
+                        usagedisclosure: ""
+                    recordrevisions:
+                        skip: false
+        createdAt: "2023-04-07T14:52:50+05:30"

@@ -1,0 +1,8 @@
+locale:
+    en:
+        compose:namespace/sample:
+            name: sample
+        compose:module/sample/post:
+            name: post
+        compose:module-field/sample/post/title:
+            label: title
