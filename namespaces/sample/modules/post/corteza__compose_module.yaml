@@ -4,17 +4,6 @@ modules:
         moduleID: 331569076394567669
         name: post
         fields:
-            content:
-                kind: String
-                label: content
-                config:
-                    dal:
-                        encodingstrategy: null
-                    privacy:
-                        sensitivitylevelid: 0
-                        usagedisclosure: ""
-                    recordrevisions:
-                        skip: false
             title:
                 kind: String
                 label: title
@@ -27,4 +16,3 @@ modules:
                     recordrevisions:
                         skip: false
         createdAt: "2023-04-07T14:52:50+05:30"
-        updatedAt: "2023-04-07T14:54:55+05:30"
