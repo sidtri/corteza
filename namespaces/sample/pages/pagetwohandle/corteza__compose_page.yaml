@@ -1,0 +1,9 @@
+namespace: sample
+pages:
+    - pageID: 331565195186972661
+      handle: pagetwohandle
+      title: page two
+      visible: true
+      weight: 1
+      createdAt: "2023-04-07T14:14:17+05:30"
+      updatedAt: "2023-04-07T14:29:52+05:30"
