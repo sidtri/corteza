@@ -4,6 +4,16 @@ modules:
         moduleID: 326896752047211253
         name: sam
         fields:
+            two:
+                kind: String
+                config:
+                    dal:
+                        encodingstrategy: null
+                    privacy:
+                        sensitivitylevelid: 0
+                        usagedisclosure: ""
+                    recordrevisions:
+                        skip: false
             one:
                 kind: String
                 config:
@@ -25,4 +35,4 @@ modules:
                     recordrevisions:
                         skip: false
         createdAt: "2023-03-06T09:17:28+05:30"
-        updatedAt: "2023-04-07T14:12:50+05:30"
+        updatedAt: "2023-04-03T13:21:19+05:30"
