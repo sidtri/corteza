@@ -1,0 +1,4 @@
+locale:
+    en:
+        compose:namespace/sample:
+            name: sample
