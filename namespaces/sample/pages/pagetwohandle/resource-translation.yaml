@@ -4,4 +4,3 @@ locale:
             name: sample
         compose:page/sample/pagetwohandle:
             title: page two
-            description: sample
