@@ -5,5 +5,3 @@ locale:
         compose:page/sample/pagetwohandle:
             title: page two
             description: sample
-            pageBlock.1.title: sample title
-            pageBlock.1.description: sample descr

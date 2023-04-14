@@ -4,22 +4,7 @@ pages:
       handle: pagetwohandle
       title: page two
       description: sample
-      blocks:
-        - blockID: 1
-          title: sample title
-          description: sample descr
-          style:
-            variants:
-                headerText: dark
-            wrap:
-                kind: card
-          kind: Content
-          xywh:
-            - 0
-            - 0
-            - 3
-            - 3
       visible: true
       weight: 1
       createdAt: "2023-04-07T14:14:17+05:30"
-      updatedAt: "2023-04-14T12:29:41+05:30"
+      updatedAt: "2023-04-14T12:26:56+05:30"
